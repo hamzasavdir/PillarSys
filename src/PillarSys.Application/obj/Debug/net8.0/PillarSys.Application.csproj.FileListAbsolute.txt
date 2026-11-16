@@ -1,0 +1,11 @@
+C:\Masaüstü\PillarSys_Analytics_WinForms_NET8_fixed\PillarSys_Final\src\PillarSys.Application\bin\Debug\net8.0\PillarSys.Application.deps.json
+C:\Masaüstü\PillarSys_Analytics_WinForms_NET8_fixed\PillarSys_Final\src\PillarSys.Application\bin\Debug\net8.0\PillarSys.Application.dll
+C:\Masaüstü\PillarSys_Analytics_WinForms_NET8_fixed\PillarSys_Final\src\PillarSys.Application\bin\Debug\net8.0\PillarSys.Application.pdb
+C:\Masaüstü\PillarSys_Analytics_WinForms_NET8_fixed\PillarSys_Final\src\PillarSys.Application\obj\Debug\net8.0\PillarSys.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Masaüstü\PillarSys_Analytics_WinForms_NET8_fixed\PillarSys_Final\src\PillarSys.Application\obj\Debug\net8.0\PillarSys.Application.AssemblyInfoInputs.cache
+C:\Masaüstü\PillarSys_Analytics_WinForms_NET8_fixed\PillarSys_Final\src\PillarSys.Application\obj\Debug\net8.0\PillarSys.Application.AssemblyInfo.cs
+C:\Masaüstü\PillarSys_Analytics_WinForms_NET8_fixed\PillarSys_Final\src\PillarSys.Application\obj\Debug\net8.0\PillarSys.Application.csproj.CoreCompileInputs.cache
+C:\Masaüstü\PillarSys_Analytics_WinForms_NET8_fixed\PillarSys_Final\src\PillarSys.Application\obj\Debug\net8.0\PillarSys.Application.dll
+C:\Masaüstü\PillarSys_Analytics_WinForms_NET8_fixed\PillarSys_Final\src\PillarSys.Application\obj\Debug\net8.0\refint\PillarSys.Application.dll
+C:\Masaüstü\PillarSys_Analytics_WinForms_NET8_fixed\PillarSys_Final\src\PillarSys.Application\obj\Debug\net8.0\PillarSys.Application.pdb
+C:\Masaüstü\PillarSys_Analytics_WinForms_NET8_fixed\PillarSys_Final\src\PillarSys.Application\obj\Debug\net8.0\ref\PillarSys.Application.dll

@@ -1,0 +1,12 @@
+C:\Masaüstü\PillarSys_Analytics_WinForms_NET8_fixed\PillarSys_Final\src\PillarSys.AnalyticsRunner\bin\Debug\net8.0\PillarSys.AnalyticsRunner.deps.json
+C:\Masaüstü\PillarSys_Analytics_WinForms_NET8_fixed\PillarSys_Final\src\PillarSys.AnalyticsRunner\bin\Debug\net8.0\PillarSys.AnalyticsRunner.dll
+C:\Masaüstü\PillarSys_Analytics_WinForms_NET8_fixed\PillarSys_Final\src\PillarSys.AnalyticsRunner\bin\Debug\net8.0\PillarSys.AnalyticsRunner.pdb
+C:\Masaüstü\PillarSys_Analytics_WinForms_NET8_fixed\PillarSys_Final\src\PillarSys.AnalyticsRunner\obj\Debug\net8.0\PillarSys.AnalyticsRunner.csproj.AssemblyReference.cache
+C:\Masaüstü\PillarSys_Analytics_WinForms_NET8_fixed\PillarSys_Final\src\PillarSys.AnalyticsRunner\obj\Debug\net8.0\PillarSys.AnalyticsRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Masaüstü\PillarSys_Analytics_WinForms_NET8_fixed\PillarSys_Final\src\PillarSys.AnalyticsRunner\obj\Debug\net8.0\PillarSys.AnalyticsRunner.AssemblyInfoInputs.cache
+C:\Masaüstü\PillarSys_Analytics_WinForms_NET8_fixed\PillarSys_Final\src\PillarSys.AnalyticsRunner\obj\Debug\net8.0\PillarSys.AnalyticsRunner.AssemblyInfo.cs
+C:\Masaüstü\PillarSys_Analytics_WinForms_NET8_fixed\PillarSys_Final\src\PillarSys.AnalyticsRunner\obj\Debug\net8.0\PillarSys.AnalyticsRunner.csproj.CoreCompileInputs.cache
+C:\Masaüstü\PillarSys_Analytics_WinForms_NET8_fixed\PillarSys_Final\src\PillarSys.AnalyticsRunner\obj\Debug\net8.0\PillarSys.AnalyticsRunner.dll
+C:\Masaüstü\PillarSys_Analytics_WinForms_NET8_fixed\PillarSys_Final\src\PillarSys.AnalyticsRunner\obj\Debug\net8.0\refint\PillarSys.AnalyticsRunner.dll
+C:\Masaüstü\PillarSys_Analytics_WinForms_NET8_fixed\PillarSys_Final\src\PillarSys.AnalyticsRunner\obj\Debug\net8.0\PillarSys.AnalyticsRunner.pdb
+C:\Masaüstü\PillarSys_Analytics_WinForms_NET8_fixed\PillarSys_Final\src\PillarSys.AnalyticsRunner\obj\Debug\net8.0\ref\PillarSys.AnalyticsRunner.dll

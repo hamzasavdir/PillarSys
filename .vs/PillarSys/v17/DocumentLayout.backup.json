@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Masa\u00FCst\u00FC\\PillarSys_Analytics_WinForms_NET8_fixed\\PillarSys_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B629B74F-425D-4A4D-A4AE-FB5E2C7B9845}|src\\PillarSys.UI\\PillarSys.UI.csproj|c:\\masa\u00FCst\u00FC\\pillarsys_analytics_winforms_net8_fixed\\pillarsys_final\\src\\pillarsys.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B629B74F-425D-4A4D-A4AE-FB5E2C7B9845}|src\\PillarSys.UI\\PillarSys.UI.csproj|solutionrelative:src\\pillarsys.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B629B74F-425D-4A4D-A4AE-FB5E2C7B9845}|src\\PillarSys.UI\\PillarSys.UI.csproj|c:\\masa\u00FCst\u00FC\\pillarsys_analytics_winforms_net8_fixed\\pillarsys_final\\src\\pillarsys.ui\\forms\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B629B74F-425D-4A4D-A4AE-FB5E2C7B9845}|src\\PillarSys.UI\\PillarSys.UI.csproj|solutionrelative:src\\pillarsys.ui\\forms\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517E7874-9FAE-4E3D-AACD-BAD25E41743F}|src\\PillarSys.AnalyticsRunner\\PillarSys.AnalyticsRunner.csproj|c:\\masa\u00FCst\u00FC\\pillarsys_analytics_winforms_net8_fixed\\pillarsys_final\\src\\pillarsys.analyticsrunner\\runner\\pythonanalizcalistirici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517E7874-9FAE-4E3D-AACD-BAD25E41743F}|src\\PillarSys.AnalyticsRunner\\PillarSys.AnalyticsRunner.csproj|solutionrelative:src\\pillarsys.analyticsrunner\\runner\\pythonanalizcalistirici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Masa\u00FCst\u00FC\\PillarSys_Analytics_WinForms_NET8_fixed\\PillarSys_Final\\src\\PillarSys.UI\\Program.cs",
+              "RelativeDocumentMoniker": "src\\PillarSys.UI\\Program.cs",
+              "ToolTip": "C:\\Masa\u00FCst\u00FC\\PillarSys_Analytics_WinForms_NET8_fixed\\PillarSys_Final\\src\\PillarSys.UI\\Program.cs",
+              "RelativeToolTip": "src\\PillarSys.UI\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAswEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T15:51:21.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnaForm.cs",
+              "DocumentMoniker": "C:\\Masa\u00FCst\u00FC\\PillarSys_Analytics_WinForms_NET8_fixed\\PillarSys_Final\\src\\PillarSys.UI\\Forms\\AnaForm.cs",
+              "RelativeDocumentMoniker": "src\\PillarSys.UI\\Forms\\AnaForm.cs",
+              "ToolTip": "C:\\Masa\u00FCst\u00FC\\PillarSys_Analytics_WinForms_NET8_fixed\\PillarSys_Final\\src\\PillarSys.UI\\Forms\\AnaForm.cs",
+              "RelativeToolTip": "src\\PillarSys.UI\\Forms\\AnaForm.cs",
+              "ViewState": "AgIAAKoBAAAAAAAAAAAowLgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T15:41:17.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PythonAnalizCalistirici.cs",
+              "DocumentMoniker": "C:\\Masa\u00FCst\u00FC\\PillarSys_Analytics_WinForms_NET8_fixed\\PillarSys_Final\\src\\PillarSys.AnalyticsRunner\\Runner\\PythonAnalizCalistirici.cs",
+              "RelativeDocumentMoniker": "src\\PillarSys.AnalyticsRunner\\Runner\\PythonAnalizCalistirici.cs",
+              "ToolTip": "C:\\Masa\u00FCst\u00FC\\PillarSys_Analytics_WinForms_NET8_fixed\\PillarSys_Final\\src\\PillarSys.AnalyticsRunner\\Runner\\PythonAnalizCalistirici.cs",
+              "RelativeToolTip": "src\\PillarSys.AnalyticsRunner\\Runner\\PythonAnalizCalistirici.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T15:38:35.224Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
